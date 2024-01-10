@@ -1,4 +1,7 @@
-### Hi there 👋
+### Hi there :dolphin: :wolf: :snake:
+
+- 🔭 I’m currently working on Python / R projects
+- 🌱 I’m currently learning about ML & AI in healthcare data analytics.
 
 <!--
 **conorheffron/conorheffron** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
