@@ -3,6 +3,7 @@
 - 🔭 I’m currently working on Python / R projects
 - 🌱 I’m currently learning about ML & AI in healthcare data analytics.
 
+<img src="https://github.com/conorheffron/conorheffron/assets/8218626/95028bf1-c42f-40b6-9a34-853b0eaf544a" alt="drawing" width="200"/>
 <!--
 **conorheffron/conorheffron** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
