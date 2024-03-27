@@ -5,8 +5,9 @@
 
 - [gist profile](https://gist.github.com/conorheffron)
 
+```html
 <script src="https://gist.github.com/conorheffron/7e5686deee1c8c6db760700ba3062482.js"></script>
-
+```
 <!--
 <img src="https://github.com/conorheffron/conorheffron/assets/8218626/95028bf1-c42f-40b6-9a34-853b0eaf544a" alt="drawing" width="200"/>
 **conorheffron/conorheffron** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
