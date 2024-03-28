@@ -1,4 +1,4 @@
-### Hi there :dolphin: :wolf: :snake:
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:FFBF00,100:00BFFF&height=200&section=header&text=Hi%20there,%20this%20is%20Conor%20Heffron&fontSize=45)
 
 - 🔭 I’m currently working on Python / R projects
 - 🌱 I’m currently learning about ML & AI in healthcare data analytics.
