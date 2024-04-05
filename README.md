@@ -5,6 +5,7 @@
 - 🔭 I’m currently working on Python / R projects
 - 🌱 I’m currently learning about ML & AI in healthcare data analytics.
 
+
 ### Skills
 
 ![R](https://img.shields.io/badge/R-%230db7ed.svg?style=for-the-badge&logo=r&logoColor=white)
@@ -15,8 +16,8 @@
 ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![Docker](https://img.shields.io/badge/docker-276DC3?style=for-the-badge&logo=docker&logoColor=white)
 ![Heroku](https://img.shields.io/badge/Heroku-14354C?style=for-the-badge&logo=heroku&logoColor=white)
-![Scala](https://img.shields.io/badge/Scala-DC322F?style=for-the-badge&logo=scala&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white)
+![Scala](https://img.shields.io/badge/Scala-DC322F?style=for-the-badge&logo=scala&logoColor=white)
 
 
 <p align="center">
