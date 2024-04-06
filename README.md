@@ -5,8 +5,6 @@
 - 🔭 I’m currently working on Python / R projects
 - 🌱 I’m currently learning about ML & AI in healthcare data analytics.
 
-{% gist 1033765 %}
-
 ### Skills
 
 ![R](https://img.shields.io/badge/R-%230db7ed.svg?style=for-the-badge&logo=r&logoColor=white)
