@@ -2,7 +2,7 @@
 
 {% gist 123456789 %}
 
-[](https://gist.github.com/conorheffron/055913e6c54595fd0457cc48e9f3d154)
+https://gist.github.com/conorheffron/055913e6c54595fd0457cc48e9f3d154
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fconorheffron%2Fhit-counter&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
