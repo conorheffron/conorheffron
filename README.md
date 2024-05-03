@@ -7,7 +7,7 @@
 - Find more information at:
   [<img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/conorheffron/)
 - 🔭 I’m currently working on Python / R projects
-- 🌱 I’m currently learning about ML & AI in healthcare data analytics.
+- 🌱 I’m currently learning about ML, AI, & Data Analytics.
 
 ### Skills
 
