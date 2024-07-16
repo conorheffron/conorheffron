@@ -6,14 +6,7 @@
 
 - Find more information at:
 - [<img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/conorheffron/)
-- <style>
-  .strava-badge- { display: inline-block; height: 48px; }
-  .strava-badge- img { visibility: hidden; height: 48px; }
-  .strava-badge-:hover { background-position: 0 -63px; }
-  .strava-badge-follow { height: 48px; width: 48px; background: url(//badges.strava.com/echelon-sprite-48.png) no-repeat 0 0; }
-</style>
-<a href="https://strava.com/athletes/2582329" class="strava-badge- strava-badge-follow" target="_blank"><img src="48.png" alt="Strava" /></a>
-  Follow me on
+- <a href="https://strava.com/athletes/2582329" class="strava-badge- strava-badge-follow" target="_blank"><img src="48.png" alt="Strava" /></a>
   <img src='https://badges.strava.com/logo-strava.png' alt='Strava' style='margin-left:2px;vertical-align:text-bottom' height=13 width=51 />
 </a>
 - 🔭 I’m currently working on Python / R projects
