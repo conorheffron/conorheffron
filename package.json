@@ -1,6 +1,6 @@
 {
   "name": "conorheffron",
-  "version": "1.2.2",
+  "version": "1.2.3",
   "description": "Overview of personal GitHub activity",
   "dependencies": {
     "@primer/css": "17.0.1"
