@@ -25,5 +25,5 @@
 <p align="center">
   <img src ="https://github-readme-stats.vercel.app/api?username=conorheffron&show_icons=true&count_private=true&theme=solarized-light&hide_border=true&bg_color=00000000&hide_rank=true">
   <img src ="https://github-readme-streak-stats.herokuapp.com/?user=conorheffron&theme=solarized-light&hide_border=true&background=FFFFFF00">
-  <img src ="https://github-readme-stats.vercel.app/api/top-langs/?username=conorheffron&layout=compact&hide_border=true&theme=solarized-light&bg_color=00000000&langs_count=8&hide=html,jupyter%20notebook&exclude_repo=gene-expr,cbio-skin-cancer">
+  <img src ="https://github-readme-stats.vercel.app/api/top-langs/?username=conorheffron&layout=compact&hide_border=true&theme=solarized-light&bg_color=00000000&langs_count=8&hide=html,jupyter%20notebook&exclude_repo=global-max-sim-matrix global-max-sim-matrix,gene-expr,cbio-skin-cancer">
 </p>
