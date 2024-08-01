@@ -11,7 +11,7 @@
 
 ### Skills
 
-![R](https://img.shields.io/badge/R-%230db7ed.svg?style=for-the-badge&logo=r&logoColor=white)
+![R](https://img.shields.io/badge/R-%20db7ed.svg?style=for-the-badge&logo=r&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-DC322F?style=for-the-badge&logo=python&logoColor=white)
 ![Jupyter](https://img.shields.io/badge/Made%20with-Jupyter-orange?style=for-the-badge&logo=Jupyter)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
