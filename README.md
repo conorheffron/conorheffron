@@ -6,9 +6,7 @@
 
 [<img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/conorheffron/) 
 
-<a href="https://strava.com/athletes/2582329" class="strava-badge- strava-badge-follow" target="_blank"><img src="strava-bdg.png" alt="Strava" />
-<img src='https://badges.strava.com/logo-strava.png' alt='Strava' style='margin-left:2px;vertical-align:text-bottom'/>
-</a>
+<a href="https://strava.com/athletes/2582329" class="strava-badge- strava-badge-follow" target="_blank"><img src="strava-bdg.png" alt="Strava" /><img src='https://badges.strava.com/logo-strava.png' alt='Strava' style='margin-left:2px;vertical-align:text-bottom'/></a>
 
 ### Skills
 
