@@ -5,6 +5,7 @@
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fconorheffron%2Fhit-counter&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
 [<img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/conorheffron/) 
+
 <a href="https://strava.com/athletes/2582329" class="strava-badge- strava-badge-follow" target="_blank"><img src="strava-bdg.png" alt="Strava" />
   <img src='https://badges.strava.com/logo-strava.png' alt='Strava' style='margin-left:2px;vertical-align:text-bottom'/>
 </a>
@@ -15,7 +16,7 @@
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-DC322F?style=for-the-badge&logo=python&logoColor=white)
 ![Jupyter](https://img.shields.io/badge/Made%20with-Jupyter-orange?style=for-the-badge&logo=Jupyter)
-![Django](https://img.shields.io/badge/Django-%23092E20.svg?logo=django&logoColor=white)
+![Django](https://img.shields.io/badge/Django-%23092E20.svg?style=for-the-badge&logo=django)
 ![R](https://img.shields.io/badge/R-%20db7ed.svg?style=for-the-badge&logo=r&logoColor=white)
 ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![Docker](https://img.shields.io/badge/docker-276DC3?style=for-the-badge&logo=docker&logoColor=white)
