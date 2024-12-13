@@ -24,4 +24,5 @@
   <img src="https://github-readme-stats.vercel.app/api?username=conorheffron&show_icons=true&count_private=true&theme=solarized-light&hide_border=true&bg_color=00000000&hide_rank=true">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=conorheffron&layout=compact&hide_border=true&theme=solarized-light&bg_color=00000000&langs_count=11&hide=html,jupyter%20notebook,r">
 </p>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=conorheffron&theme=solarized-light&hide_border=true&background=FFFFFF00">
+
+![Streak]([https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white](https://github-readme-streak-stats.herokuapp.com/?user=conorheffron&theme=solarized-light&hide_border=true&background=FFFFFF00))
