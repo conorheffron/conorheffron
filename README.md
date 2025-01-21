@@ -29,4 +29,5 @@
 </p>
 <p align="center">
   <img src="https://streak-stats.demolab.com/?user=conorheffron&theme=solarized-light&hide_border=true">
+  ![Streak Stats](https://streak-stats.demolab.com/?user=conorheffron&theme=solarized-light&hide_border=true)
 </p>
