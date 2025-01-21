@@ -19,6 +19,7 @@
 ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![Docker](https://img.shields.io/badge/docker-276DC3?style=for-the-badge&logo=docker&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=000)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=fff)
 ![Azure](https://custom-icon-badges.demolab.com/badge/Microsoft%20Azure-0089D6?style=for-the-badge&logo=msazure&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-web-services&logoColor=white)
 ![GCP](https://img.shields.io/badge/Google%20Cloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white)
@@ -27,7 +28,7 @@
   <img src="https://github-readme-stats.vercel.app/api?username=conorheffron&show_icons=true&count_private=true&theme=solarized-light&hide_border=true&bg_color=00000000&hide_rank=true">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=conorheffron&layout=compact&hide_border=true&theme=solarized-light&bg_color=00000000&langs_count=11&hide=html,jupyter%20notebook,r">
 </p>
+
 <p align="center">
   <img src="https://streak-stats.demolab.com/?user=conorheffron&theme=solarized-light&hide_border=true">
-  ![Streak Stats](https://streak-stats.demolab.com/?user=conorheffron&theme=solarized-light&hide_border=true)
 </p>
