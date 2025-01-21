@@ -30,5 +30,5 @@
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=conorheffron&theme=solarized-light&hide_border=true">
+  <img src="https://streak-stats.demolab.com/?user=conorheffron">
 </p>
