@@ -16,11 +16,17 @@
 ![R](https://img.shields.io/badge/R-%20db7ed.svg?style=for-the-badge&logo=r&logoColor=white)
 ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![Docker](https://img.shields.io/badge/docker-276DC3?style=for-the-badge&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=fff)
+![npm](https://img.shields.io/badge/npm-CB3837?logo=npm&logoColor=fff)
+![React](https://img.shields.io/badge/React-%2320232a.svg?logo=react&logoColor=%2361DAFB)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=000)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=fff)
 ![Azure](https://custom-icon-badges.demolab.com/badge/Microsoft%20Azure-0089D6?style=for-the-badge&logo=msazure&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-web-services&logoColor=white)
 ![GCP](https://img.shields.io/badge/Google%20Cloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white)
+![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white) 
+![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black)
+![iOS](https://img.shields.io/badge/iOS-000000?&logo=apple&logoColor=white)
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=conorheffron&show_icons=true&count_private=true&theme=solarized-light&hide_border=true&bg_color=00000000&hide_rank=true">
