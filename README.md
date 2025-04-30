@@ -2,6 +2,9 @@
 
 ![header](https://capsule-render.vercel.app/api?type=waving&color=0:00BFFF,100:FFBF00&height=200&section=header&text=Hi%20there,%20this%20is%20Conor%20Heffron&fontSize=45)
 
+Welcome, I'm Conor Heffron, a Software / Data Engineer hailing from County Meath, Ireland. Please visit my website to learn more.
+![ironoc.net](https://ironoc.net/about)
+
 ![](https://komarev.com/ghpvc/?username=conorheffron)
 
 ## 🌐 Socials:
