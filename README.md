@@ -53,4 +53,4 @@ Please consider contributing to the charities listed at [iRonoc Donate](https://
 </p>
 
 ### 🔝 Top Repositories
-![](https://github-contributor-stats.vercel.app/api?username=conorheffron&limit=5&order_by=contributions)
+![](https://github-contributor-stats.vercel.app/api?username=conorheffron&limit=5&order_by=contributions&combine_all_yearly_contributions=true)
