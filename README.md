@@ -1,13 +1,21 @@
+# 💫 About Me:
+
 ![header](https://capsule-render.vercel.app/api?type=waving&color=0:00BFFF,100:FFBF00&height=200&section=header&text=Hi%20there,%20this%20is%20Conor%20Heffron&fontSize=45)
+
+Welcome, I'm Conor Heffron, a Software / Data Engineer hailing from County Meath, Ireland. Please visit my personal website [iRonoc.net](https://ironoc.net/) to learn more.
+
+[iRonoc About](https://ironoc.net/about)
+
+Please consider contributing to the charities listed at [iRonoc Donate](https://ironoc.net/donate)
 
 ![](https://komarev.com/ghpvc/?username=conorheffron)
 
-[<img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/conorheffron/) 
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/conorheffron) 
 
 <a href="https://strava.com/athletes/2582329" class="strava-badge- strava-badge-follow" target="_blank"><img src="strava-bdg.png" alt="Strava" /><img src='https://badges.strava.com/logo-strava.png' alt='Strava' style='margin-left:2px;vertical-align:text-bottom'/></a>
 
-### Skills
-
+## 💻 Tech Stack / Skills
 ![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-DC322F?style=for-the-badge&logo=python&logoColor=white)
@@ -28,6 +36,8 @@
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![iOS](https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=apple&logoColor=white)
 
+## GitHub Statistics
+
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=conorheffron&show_icons=true&count_private=true&theme=solarized-light&hide_border=true&bg_color=00000000&hide_rank=true">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=conorheffron&layout=compact&hide_border=true&theme=solarized-light&bg_color=00000000&langs_count=11&hide=html,jupyter%20notebook,r">
@@ -37,6 +47,10 @@
   <img src="https://github-streak-stats-ruby.vercel.app/?user=conorheffron&theme=solarized-light&hide_border=true">
 </p>
 
+## 🏆 GitHub Trophies
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=conorheffron&theme=light">
 </p>
+
+### 🔝 Top Repositories
+![](https://github-contributor-stats.vercel.app/api?username=conorheffron&limit=5&order_by=contributions&combine_all_yearly_contributions=true)
