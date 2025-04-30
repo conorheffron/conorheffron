@@ -4,7 +4,9 @@
 
 Welcome, I'm Conor Heffron, a Software / Data Engineer hailing from County Meath, Ireland. Please visit my personal website iRonoc to learn more.
 
-[ironoc.net](https://ironoc.net/about)
+[iRonoc.net About](https://ironoc.net/about)
+
+Please consider contributing to the charities listed at [iRonoc Donate](https://ironoc.net/donate)
 
 ![](https://komarev.com/ghpvc/?username=conorheffron)
 
