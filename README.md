@@ -51,7 +51,7 @@ Please consider contributing to the great Irish charities listed at [iRonoc Dona
 </p>
 
 ### 🔝 Top Repositories
-![](https://github-contributor-stats.vercel.app/api?username=conorheffron&limit=5&order_by=contributions&combine_all_yearly_contributions=true)
+![](https://github-contributor-stats.vercel.app/api?username=conorheffron&limit=9&order_by=contributions&combine_all_yearly_contributions=true)
  
 ---
 [![](https://visitcount.itsvg.in/api?id=conorheffron&icon=2&color=8)](https://visitcount.itsvg.in)
