@@ -36,3 +36,7 @@
 <p align="center">
   <img src="https://github-streak-stats-ruby.vercel.app/?user=conorheffron&theme=solarized-light&hide_border=true">
 </p>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=conorheffron&theme=light">
+</p>
