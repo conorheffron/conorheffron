@@ -47,4 +47,4 @@
 </p>
 
 ### 🔝 Top Repositories
-![](https://github-contributor-stats.vercel.app/api?username=conorheffron&hide=B,B%2B&hide_contributor_rank=false&limit=5&order_by=contributions)
+![](https://github-contributor-stats.vercel.app/api?username=conorheffron&limit=5&order_by=contributions)
