@@ -47,4 +47,4 @@
 </p>
 
 ### 🔝 Top Repositories
-![](https://github-contributor-stats.vercel.app/api?username=conorheffron&limit=5&theme=synthwave&combine_all_yearly_contributions=true)
+![](https://github-contributor-stats.vercel.app/api?username=conorheffron)
