@@ -36,7 +36,7 @@ Please consider contributing to the charities listed at [iRonoc Donate](https://
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![iOS](https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=apple&logoColor=white)
 
-## GitHub Statistics
+## 📊 GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=conorheffron&show_icons=true&count_private=true&theme=solarized-light&hide_border=true&bg_color=00000000&hide_rank=true">
@@ -54,3 +54,12 @@ Please consider contributing to the charities listed at [iRonoc Donate](https://
 
 ### 🔝 Top Repositories
 ![](https://github-contributor-stats.vercel.app/api?username=conorheffron&limit=5&order_by=contributions&combine_all_yearly_contributions=true)
+ 
+---
+[![](https://visitcount.itsvg.in/api?id=conorheffron&icon=2&color=8)](https://visitcount.itsvg.in)
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
+</picture>
