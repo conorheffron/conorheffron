@@ -1,6 +1,6 @@
 # 💫 About Me
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=0:00BFFF,100:FFBF00&height=200&section=header&text=Hi%20there,%20this%20is%20Conor%20Heffron&fontSize=45)
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:00BFFF,100:FFBF00&height=200&section=header&text=Hi%20there&fontSize=45)
 
 Welcome, I'm Conor Heffron, a Software / Data Engineer hailing from County Meath, Ireland. Please visit my personal website [iRonoc.net](https://ironoc.net/) & learn more at -> [iRonoc About](https://ironoc.net/about).
 
