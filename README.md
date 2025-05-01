@@ -2,7 +2,7 @@
 
 ![header](https://capsule-render.vercel.app/api?type=waving&color=0:00BFFF,100:FFBF00&height=200&section=header&text=Hi%20there&fontSize=45)
 
-Welcome, I'm Conor Heffron, a Software / Data Engineer hailing from County Meath, Ireland. Please visit my personal website [iRonoc.net](https://ironoc.net/) & learn more at -> [iRonoc About](https://ironoc.net/about).
+Welcome, I'm Conor Heffron, Software & Data Engineer with a background in Java & Python Development, DevOps, & Data Analytics hailing from County Meath, Ireland. Please visit my personal website [iRonoc.net](https://ironoc.net/) & learn more at -> [iRonoc About](https://ironoc.net/about).
 
 Please consider contributing to the great Irish charities listed at [iRonoc Donate](https://ironoc.net/donate).
 
@@ -11,7 +11,7 @@ Please consider contributing to the great Irish charities listed at [iRonoc Dona
 
 <a href="https://strava.com/athletes/2582329" class="strava-badge- strava-badge-follow" target="_blank"><img src="strava-bdg.png" alt="Strava" /><img src='https://badges.strava.com/logo-strava.png' alt='Strava' style='margin-left:2px;vertical-align:text-bottom'/></a>
 
-## 💻 Tech Stack / Skills
+## 💻 Tech Stack & Skills
 ![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-DC322F?style=for-the-badge&logo=python&logoColor=white)
@@ -32,7 +32,7 @@ Please consider contributing to the great Irish charities listed at [iRonoc Dona
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![iOS](https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=apple&logoColor=white)
 
-## 📊 GitHub Stats
+## 📊 GitHub Statistics
 
 ![](https://komarev.com/ghpvc/?username=conorheffron)
 
@@ -54,6 +54,9 @@ Please consider contributing to the great Irish charities listed at [iRonoc Dona
 ![](https://github-contributor-stats.vercel.app/api?username=conorheffron&limit=9&order_by=contributions&combine_all_yearly_contributions=true)
 
 ---
+
+### 🐍 Awesome Animation of the game snake (loved this game on my old Nokia 3210 & 3310 :D)
+
 [![](https://visitcount.itsvg.in/api?id=conorheffron&icon=2&color=8)](https://visitcount.itsvg.in)
 
 <picture>
