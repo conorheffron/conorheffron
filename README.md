@@ -1,14 +1,12 @@
-# 💫 About Me:
+# 💫 About Me
 
 ![header](https://capsule-render.vercel.app/api?type=waving&color=0:00BFFF,100:FFBF00&height=200&section=header&text=Hi%20there,%20this%20is%20Conor%20Heffron&fontSize=45)
 
-Welcome, I'm Conor Heffron, a Software / Data Engineer hailing from County Meath, Ireland. Please visit my personal website [iRonoc.net](https://ironoc.net/) to learn more -> [iRonoc About](https://ironoc.net/about).
+Welcome, I'm Conor Heffron, a Software / Data Engineer hailing from County Meath, Ireland. Please visit my personal website [iRonoc.net](https://ironoc.net/) & learn more at -> [iRonoc About](https://ironoc.net/about).
 
 Please consider contributing to the great Irish charities listed at [iRonoc Donate](https://ironoc.net/donate).
 
-![](https://komarev.com/ghpvc/?username=conorheffron)
-
-## 🌐 Socials:
+## 🌐 Socials
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/conorheffron) 
 
 <a href="https://strava.com/athletes/2582329" class="strava-badge- strava-badge-follow" target="_blank"><img src="strava-bdg.png" alt="Strava" /><img src='https://badges.strava.com/logo-strava.png' alt='Strava' style='margin-left:2px;vertical-align:text-bottom'/></a>
@@ -36,6 +34,8 @@ Please consider contributing to the great Irish charities listed at [iRonoc Dona
 
 ## 📊 GitHub Stats
 
+![](https://komarev.com/ghpvc/?username=conorheffron)
+
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=conorheffron&show_icons=true&count_private=true&theme=solarized-light&hide_border=true&bg_color=00000000&hide_rank=true">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=conorheffron&layout=compact&hide_border=true&theme=solarized-light&bg_color=00000000&langs_count=11&hide=html,jupyter%20notebook,r">
@@ -52,7 +52,7 @@ Please consider contributing to the great Irish charities listed at [iRonoc Dona
 
 ### 🔝 Top Repositories
 ![](https://github-contributor-stats.vercel.app/api?username=conorheffron&limit=9&order_by=contributions&combine_all_yearly_contributions=true)
- 
+
 ---
 [![](https://visitcount.itsvg.in/api?id=conorheffron&icon=2&color=8)](https://visitcount.itsvg.in)
 
