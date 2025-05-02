@@ -55,7 +55,7 @@ Please consider contributing to the great Irish charities listed at [iRonoc Dona
 
 ---
 
-### 🐍 Awesome Animation of the game snake (loved this game on my old Nokia 3210 & 3310 :D)
+### 🐍
 
 [![](https://visitcount.itsvg.in/api?id=conorheffron&icon=2&color=8)](https://visitcount.itsvg.in)
 
