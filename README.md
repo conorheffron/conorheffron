@@ -55,15 +55,3 @@ https://github.com/user-attachments/assets/4e6ec967-ea55-464b-ba62-0bcfee0303ab
 
 ### 🔝 Top Repositories
 ![](https://github-contributor-stats.vercel.app/api?username=conorheffron&limit=9&order_by=contributions&combine_all_yearly_contributions=true)
-
----
-
-### 🐍
-
-[![](https://visitcount.itsvg.in/api?id=conorheffron&icon=2&color=8)](https://visitcount.itsvg.in)
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
-</picture>
