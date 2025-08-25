@@ -49,10 +49,6 @@ https://github.com/user-attachments/assets/4e6ec967-ea55-464b-ba62-0bcfee0303ab
   <img src="https://github-streak-stats-ruby.vercel.app/?user=conorheffron&theme=solarized-light&hide_border=true">
 </p>
 
-## 🏆 GitHub Trophies
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=conorheffron&theme=light">
-</p>
 
 ### 🔝 Top Repositories
 ![](https://github-contributor-stats.vercel.app/api?username=conorheffron&limit=9&order_by=contributions&combine_all_yearly_contributions=true)
