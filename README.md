@@ -5,7 +5,7 @@
 Welcome, I'm Conor Heffron, Software & Data Engineer with a background in Java & Python Development, DevOps, & Data Analytics hailing from County Meath, Ireland. Please visit my personal website [iRonoc.net](https://ironoc.net/) & learn more at -> [iRonoc About](https://ironoc.net/about).
 
  - Please consider contributing to the great Irish charities listed at [iRonoc Donate](https://ironoc.net/donate).
- - Fell free to dabble with the Graph Query Language playground deployed at iRonoc dot net [here](https://ironoc.net/graphiql?path=/graphql)
+ - Feel free to dabble with the Graph Query Language playground deployed at iRonoc dot net [here](https://ironoc.net/graphiql?path=/graphql)
 
 ## iRonoc Demo
 https://github.com/user-attachments/assets/4e6ec967-ea55-464b-ba62-0bcfee0303ab
