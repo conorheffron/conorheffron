@@ -53,7 +53,7 @@ https://github.com/user-attachments/assets/4e6ec967-ea55-464b-ba62-0bcfee0303ab
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=conorheffron&show_icons=true&count_private=true&theme=solarized-light&hide_border=true&bg_color=00000000&hide_rank=true">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=conorheffron&layout=compact&hide_border=true&theme=solarized-light&bg_color=00000000&langs_count=11&hide=html,jupyter%20notebook,r">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=conorheffron&layout=compact&hide_border=true&theme=solarized-light&bg_color=00000000&langs_count=11&hide=html,jupyter%20notebook,r,q,css,mako,shell,tex">
 </p>
 
 <p align="center">
