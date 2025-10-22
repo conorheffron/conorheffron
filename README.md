@@ -1,6 +1,6 @@
 # 💫 About Me
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=0:00BFFF,100:FFBF00&height=200&section=header&text=Hi%20there&fontSize=45)
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:00BFFF,100:FFBF00&height=200&section=header&text=<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=45&pause=1000&color=96B2F7&background=E5E62DC0&center=true&vCenter=true&width=854&lines=Hi+There" alt="Typing SVG" /></a>&fontSize=45)
 
 <!-- Animated typing with multiple lines -->
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=4000&pause=1000&olor=96B2F7&background=E6E11DC0&center=true&vCenter=true&multiline=true&width=854&height=65&lines=Hi+There" alt="Typing SVG" />
