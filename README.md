@@ -3,7 +3,7 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=0:00BFFF,100:FFBF00&height=200&section=header&text=Hi%20there&fontSize=45)
 
 <!-- Animated typing with multiple lines -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=4000&pause=1000&olor=96B2F7&background=E6E11DC0&center=true&vCenter=true&multiline=true&width=1000&height=120&lines=Hi+There" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=4000&pause=1000&olor=96B2F7&background=E6E11DC0&center=true&vCenter=true&multiline=true&width=750&height=65&lines=Hi+There" alt="Typing SVG" />
 
 Welcome, I'm Conor Heffron, Software & Data Engineer with a background in Java & Python Development, DevOps, & Data Analytics hailing from County Meath, Ireland. Please visit my personal website [iRonoc.net](https://ironoc.net/) & learn more at -> [iRonoc About](https://ironoc.net/about).
 
