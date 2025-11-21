@@ -1,5 +1,4 @@
 # 💫 About Me
-
 <!--
 ![header](https://capsule-render.vercel.app/api?type=waving&color=0:00BFFF,100:FFBF00&height=200&section=header&text=Hi%20There&fontSize=45)
 -->
@@ -15,17 +14,12 @@ Welcome, I'm Conor Heffron, Software & Data Engineer with a background in Java &
 -->
 
 ## iRonoc Demo
-
 https://github.com/user-attachments/assets/4e6ec967-ea55-464b-ba62-0bcfee0303ab
 
-
 ## 🌐 Socials
-
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/conorheffron) <a href="https://strava.com/athletes/2582329" class="strava-badge- strava-badge-follow" target="_blank"><img src="strava-bdg.png" alt="Strava" /><img src='https://badges.strava.com/logo-strava.png' alt='Strava' style='margin-left:2px;vertical-align:text-bottom'/></a>
 
-
 ## 💻 Tech Stack & Skills
-
 ![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=fff)
 ![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=fff)
 ![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
