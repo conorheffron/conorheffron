@@ -21,9 +21,7 @@ https://github.com/user-attachments/assets/4e6ec967-ea55-464b-ba62-0bcfee0303ab
 
 ## 🌐 Socials
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/conorheffron) 
-
-<a href="https://strava.com/athletes/2582329" class="strava-badge- strava-badge-follow" target="_blank"><img src="strava-bdg.png" alt="Strava" /><img src='https://badges.strava.com/logo-strava.png' alt='Strava' style='margin-left:2px;vertical-align:text-bottom'/></a>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/conorheffron) <a href="https://strava.com/athletes/2582329" class="strava-badge- strava-badge-follow" target="_blank"><img src="strava-bdg.png" alt="Strava" /><img src='https://badges.strava.com/logo-strava.png' alt='Strava' style='margin-left:2px;vertical-align:text-bottom'/></a>
 
 
 ## 💻 Tech Stack & Skills
