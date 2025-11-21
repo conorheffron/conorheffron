@@ -53,7 +53,7 @@ https://github.com/user-attachments/assets/4e6ec967-ea55-464b-ba62-0bcfee0303ab
 ![iOS](https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=apple&logoColor=white)
 ![Windows](https://custom-icon-badges.demolab.com/badge/Windows-0078D6?style=for-the-badge&logo=windows11&logoColor=white)
 
-
+<!--
 ## 📊 GitHub Statistics
 
 ![](https://komarev.com/ghpvc/?username=conorheffron)
@@ -78,3 +78,4 @@ https://github.com/user-attachments/assets/4e6ec967-ea55-464b-ba62-0bcfee0303ab
 ### 🔝 Top Repositories
 
 ![](https://github-contributor-stats.vercel.app/api?username=conorheffron&limit=9&order_by=contributions&combine_all_yearly_contributions=true)
+-->
