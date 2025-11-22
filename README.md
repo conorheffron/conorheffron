@@ -1,8 +1,7 @@
-# 💫 About
 <!--
+# 💫 About
 ![header](https://capsule-render.vercel.app/api?type=waving&color=0:00BFFF,100:FFBF00&height=200&section=header&text=Hi%20There&fontSize=45)
 -->
-
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&pause=1000&color=96B2F7&background=E5E62DC0&center=true&vCenter=true&width=854&lines=Software+/+Web+Developer" alt="Typing SVG" /></a>
 
 ## 🌐 Social Media
