@@ -85,6 +85,8 @@ https://github.com/user-attachments/assets/4e6ec967-ea55-464b-ba62-0bcfee0303ab
   <img src="https://github-trophies.vercel.app/?username=conorheffron&theme=light">
 </p>
 
+<!--
 ### 🔝 Top Repositories
 
 ![](https://github-contributor-stats.vercel.app/api?username=conorheffron&limit=9&order_by=contributions&combine_all_yearly_contributions=true)
+-->
