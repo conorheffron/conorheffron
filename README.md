@@ -74,8 +74,6 @@ https://github.com/user-attachments/assets/4e6ec967-ea55-464b-ba62-0bcfee0303ab
   />
 </div>
 
-
-
 <p align="center">
   <img src="https://github-readme-stats-fast.vercel.app/api?username=conorheffron&show_icons=true&count_private=true&theme=solarized-light&hide_border=true&bg_color=00000000&hide_rank=true">
   <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=conorheffron&layout=compact&hide_border=true&theme=solarized-light&bg_color=00000000&langs_count=11&hide=html,jupyter%20notebook,r,q,css,mako,tex">
@@ -87,7 +85,9 @@ https://github.com/user-attachments/assets/4e6ec967-ea55-464b-ba62-0bcfee0303ab
   <img src="https://github-trophies.vercel.app/?username=conorheffron&theme=light">
 </p>
 
-
+<!--
 ### 🔝 Top Repositories
 
 ![](https://github-readme-stats-fast.vercel.app/api?username=conorheffron&limit=9&order_by=contributions&combine_all_yearly_contributions=true)
+-->
+
