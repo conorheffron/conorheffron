@@ -69,8 +69,7 @@ https://github.com/user-attachments/assets/4e6ec967-ea55-464b-ba62-0bcfee0303ab
 <div align="center">
   <img 
     src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" 
-    width="100%" 
-    style="max-width:100%; height:auto;"
+    width="854"
     alt=""
   />
 </div>
