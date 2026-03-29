@@ -84,7 +84,7 @@ https://github.com/user-attachments/assets/4e6ec967-ea55-464b-ba62-0bcfee0303ab
 ## 🏆 GitHub Trophies
 
 <p align="center">
-  <img src="https://github-readme-stats-fast.vercel.app/?username=conorheffron&theme=light">
+  <img src="https://github-trophies.vercel.app/?username=conorheffron&theme=light">
 </p>
 
 
