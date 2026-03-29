@@ -66,19 +66,26 @@ https://github.com/user-attachments/assets/4e6ec967-ea55-464b-ba62-0bcfee0303ab
   <img src="https://github-streak-stats-ruby.vercel.app/?user=conorheffron&theme=solarized-light&hide_border=true">
 </p>
 
-<!--
+<div align="center">
+  <img 
+    src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" 
+    width="854"
+    alt=""
+  />
+</div>
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=conorheffron&show_icons=true&count_private=true&theme=solarized-light&hide_border=true&bg_color=00000000&hide_rank=true">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=conorheffron&layout=compact&hide_border=true&theme=solarized-light&bg_color=00000000&langs_count=11&hide=html,jupyter%20notebook,r,q,css,mako,tex">
+  <img src="https://github-readme-stats-fast.vercel.app/api?username=conorheffron&show_icons=true&count_private=true&theme=solarized-light&hide_border=true&bg_color=00000000&hide_rank=true">
+  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=conorheffron&layout=compact&hide_border=true&theme=solarized-light&bg_color=00000000&langs_count=11&hide=html,jupyter%20notebook,r,q,css,mako,tex">
 </p>
 
 ## 🏆 GitHub Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=conorheffron&theme=light">
+  <img src="https://github-trophies.vercel.app/?username=conorheffron&theme=light">
 </p>
 
-
+<!--
 ### 🔝 Top Repositories
 
 ![](https://github-contributor-stats.vercel.app/api?username=conorheffron&limit=9&order_by=contributions&combine_all_yearly_contributions=true)
