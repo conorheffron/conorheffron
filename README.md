@@ -62,9 +62,9 @@ https://github.com/user-attachments/assets/4e6ec967-ea55-464b-ba62-0bcfee0303ab
 
 ![](https://komarev.com/ghpvc/?username=conorheffron)
 
-<p align="center">
+<!-- <p align="center">
   <img src="https://github-streak-stats-ruby.vercel.app/?user=conorheffron&theme=solarized-light&hide_border=true">
-</p>
+</p> -->
 
 <div align="center">
   <img 
